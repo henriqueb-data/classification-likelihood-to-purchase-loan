@@ -50,9 +50,9 @@ This project applies supervised machine learning techniques to identify customer
 
 - Use the **Post-Pruning Decision Tree model** for marketing purposes, as it outperforms the Pre-Pruning model across most evaluation metrics, particularly **Recall**. This is critical because the primary objective is to identify as many potential loan purchasers as possible, even at the cost of higher false positives.
 
-- Ensure that **customer information is accurate and up to date**, especially for **Education, Income, and Family size**, as these variables are the most important predictors in the selected model.
-
 - When targeting prospects outside the existing customer database, prioritize **high-income, highly educated individuals with three or more family members**, as these demographic groups show higher likelihood of purchasing a loan.
+
+- Ensure that **customer information is accurate and up to date**, especially for **Education, Income, and Family size**, as these variables are the most important predictors in the selected model.
 
 ---
 
